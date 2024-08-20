@@ -1,0 +1,7 @@
+C:\Users\david\Downloads\AirbnbCampingAPI\obj\Debug\net8.0\AirbnbCamping.csproj.AssemblyReference.cache
+C:\Users\david\Downloads\AirbnbCampingAPI\obj\Debug\net8.0\AirbnbCamping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Downloads\AirbnbCampingAPI\obj\Debug\net8.0\AirbnbCamping.AssemblyInfoInputs.cache
+C:\Users\david\Downloads\AirbnbCampingAPI\obj\Debug\net8.0\AirbnbCamping.AssemblyInfo.cs
+C:\Users\david\Downloads\AirbnbCampingAPI\obj\Debug\net8.0\AirbnbCamping.csproj.CoreCompileInputs.cache
+C:\Users\david\Downloads\AirbnbCampingAPI\obj\Debug\net8.0\AirbnbCamping.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\david\Downloads\AirbnbCampingAPI\obj\Debug\net8.0\AirbnbCamping.MvcApplicationPartsAssemblyInfo.cache
